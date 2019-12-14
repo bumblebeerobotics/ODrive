@@ -22,3 +22,6 @@ Please refer to the [Developer Guide](https://docs.odriverobotics.com/developer-
  * [User Guide](https://docs.odriverobotics.com/)
  * [Forum](https://discourse.odriverobotics.com/)
  * [Chat](https://discourse.odriverobotics.com/t/come-chat-with-us/281)
+ 
+ ### UPDATED DESCRIPTION 
+ This repository is forked from the ODRIVE robotics original repository. We've changed the parameters such that it configures all the correct parameters for our motors. We need to rebuild this firmware as CUSTOM and flash it to the odrive.
