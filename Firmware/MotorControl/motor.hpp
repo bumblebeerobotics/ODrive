@@ -68,7 +68,7 @@ public:
         MotorType_t motor_type = MOTOR_TYPE_HIGH_CURRENT;
         // Read out max_allowed_current to see max supported value for current_lim.
         // float current_lim = 70.0f; //[A]
-        float current_lim = 10.0f;  //[A]
+        float current_lim = 90.0f;  //[A]
         float current_lim_tolerance = 1.25f;  // multiple of current_lim
         // Value used to compute shunt amplifier gains
         float requested_current_range = 60.0f; // [A]
